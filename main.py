@@ -2,4 +2,5 @@ import os
 print(os.listdir())
 print(os.abort())
 
-print("Hello guys how are you all")
+print(os.get_blocking())
+print(os.chdir("/"))
